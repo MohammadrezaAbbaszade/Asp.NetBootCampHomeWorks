@@ -1,0 +1,14 @@
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/bin/Debug/net9.0/Initial first App - 1
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/bin/Debug/net9.0/Initial first App - 1.deps.json
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/bin/Debug/net9.0/Initial first App - 1.runtimeconfig.json
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/bin/Debug/net9.0/Initial first App - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/bin/Debug/net9.0/Initial first App - 1.pdb
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.AssemblyInfoInputs.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.AssemblyInfo.cs
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.csproj.CoreCompileInputs.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/refint/Initial first App - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.pdb
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/Initial first App - 1.genruntimeconfig.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/Initial first App - 1/obj/Debug/net9.0/ref/Initial first App - 1.dll
