@@ -1,0 +1,15 @@
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/bin/Debug/net9.0/OOP - ObjectOriented Programming - 1
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/bin/Debug/net9.0/OOP - ObjectOriented Programming - 1.deps.json
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/bin/Debug/net9.0/OOP - ObjectOriented Programming - 1.runtimeconfig.json
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/bin/Debug/net9.0/OOP - ObjectOriented Programming - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/bin/Debug/net9.0/OOP - ObjectOriented Programming - 1.pdb
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.AssemblyInfoInputs.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.AssemblyInfo.cs
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.csproj.CoreCompileInputs.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.sourcelink.json
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/refint/OOP - ObjectOriented Programming - 1.dll
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.pdb
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/OOP - ObjectOriented Programming - 1.genruntimeconfig.cache
+/Users/mohammadrezaabbaszadeh/RiderProjects/aspPractices/OOP - ObjectOriented Programming - 1/obj/Debug/net9.0/ref/OOP - ObjectOriented Programming - 1.dll
